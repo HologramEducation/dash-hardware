@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HOL-Dash_1_2.PcbDoc   10/6/2017  8:15:49 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HOL-Dash_1_2-RoundHoles.TXT
+ASCII SlotHoles File : HOL-Dash_1_2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             9         PTH        0.35inch (8.80mm)
+T2      8mil (0.203mm)                                            Round             168       PTH        15.17inch (385.36mm)
+T3      20mil (0.5mm)                                             Slot              2         PTH        0.58inch (14.64mm)
+T4      24mil (0.61mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Round             36        PTH        5.10inch (129.54mm)
+T6      62mil (1.575mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T7      32mil (0.8mm)                                             Round             1         NPTH       0.00inch (0.00mm)
+T8      39mil (1mm)                                               Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              219
+
+Total Processing Time (hh:mm:ss) : 00:00:01
